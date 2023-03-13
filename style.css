@@ -1,0 +1,38 @@
+.header {
+    margin-top: 0px;
+    background-color: #0f292f;
+    padding: 15px;
+}
+
+.title {
+    color: #14a098;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+
+.creator {
+    color: white;
+    background-color: #18444e;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.song_name {
+    margin-left: 63%;
+    color: white;
+    background-color: #18444e;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+canvas {
+    border-width: 10px;
+    border-color: #0f292f;
+}
